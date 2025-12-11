@@ -13,7 +13,10 @@
 # Branding & Marketing Strategy
 
   ## Brand Positioning & Identity
+  
   Modern, clean, analytical, forward-looking.
+
+  ---
 
   ## Brand Messaging Framework
   
@@ -43,10 +46,16 @@
 
   "Values open communication."
 
+  "Advisory Intelligence."
+
+  ---
+
 
   ## Visual Identity Standards
   
   Minimalist layout, grid-based structure, calm color palette, typography consistency.
+
+  ---
 
 
   ## Content Strategy
@@ -57,9 +66,21 @@
   
   Video: Interpretation of hyper-local neighborhood trends for targeted farm engagement.
 
+  ---
+
 
   ## Marketing Channels
+
+  ---
+
+
   ## Listing Marketing Framework
+
+  ---
+
+  ## Sphere & Database Marketing
+
+  ---
   
   ## Marketing Budget Allocation
  
@@ -79,14 +100,16 @@
   
   Weighted toward seller attraction.
  
- 
-  ## Sphere & Database Marketing
+  ---
+  
 
   ## Marketing Calendar (2026)
 
   Monthly: Post cards to apartment complex's physical boards, Substack newsletter, social cadence.
   
   Quarterly: high-impact farm report, CMA drop-offs, event.
+
+  ---
   
   
   ## KPIs

@@ -1,0 +1,74 @@
+     ┌─────────────────────────┐
+     │ 1. Buyer Signs Agreement│
+     │   (or representation)   │
+     └──────────┬──────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 2. Buyer Onboarding         │
+     │ - Welcome Packet            │
+     │ - CRM intake & segmentation │
+     │ - Strategy consultation     │
+     │ - Lender introduction       │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 3. Search Phase             │
+     │ - Curated listings          │
+     │ - Forecast insights         │
+     │ - Weekly communication      │
+     │ - Showings scheduled        │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 4. Offer Preparation        │
+     │ - Property analysis         │
+     │ - Range-of-outcomes review  │
+     │ - Offer drafting            │
+     │ - Rapport with listing agent│
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 5. Offer Accepted           │
+     │ - CRM tag update            │
+     │ - Under-contract timeline   │
+     │ - Disclosures review        │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 6. Under Contract           │
+     │ - Inspection mgmt           │
+     │ - Negotiation               │
+     │ - Appraisal preparation     │
+     │ - Lender & title updates    │
+     │ - Weekly summaries          │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 7. Closing Preparation      │
+     │ - CD review                 │
+     │ - Final walkthrough         │
+     │ - Repair confirmation       │
+     │ - Closing logistics         │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 8. Closing Day              │
+     │ - Attend closing            │
+     │ - Deliver gift              │
+     │ - Keys exchanged            │
+     └──────────┬─────────────────┘
+                │
+                ▼
+     ┌────────────────────────────┐
+     │ 9. Post-Closing Care        │
+     │ - 30/60/90-day check-ins    │
+     │ - Add to database nurture   │
+     │ - Annual Home Review setup  │
+     └─────────────────────────────┘

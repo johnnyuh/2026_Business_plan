@@ -1,0 +1,73 @@
+     ┌──────────────────────┐
+     │   1. Seller Signs    │
+     │   Listing Agreement  │
+     └───────────┬──────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 2. Onboarding & Setup      │
+     │ - Welcome Packet           │
+     │ - My Deals / Transaction   │
+     │   Manager setup            │
+     │ - Prep Guide sent          │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 3. Property Preparation     │
+     │ - Walkthrough               │
+     │ - Prep Plan                 │
+     │ - Staging guidance          │
+     │ - Order photography & LC    │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 4. Listing Launch           │
+     │ - MLS live                  │
+     │ - LC marketing deploy       │
+     │ - Just Listed assets        │
+     │ - Social posts scheduled     │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 5. Active Listing Mgmt      │
+     │ - Weekly seller report      │
+     │ - Market review             │
+     │ - Agent/buyer outreach      │
+     │ - Open house execution      │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 6. Offer Received           │
+     │ - Analyze & compare         │
+     │ - Strategy discussion       │
+     │ - Negotiate & finalize      │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 7. Under Contract           │
+     │ - Weekly updates            │
+     │ - Inspection mgmt           │
+     │ - Appraisal mgmt            │
+     │ - Title coordination        │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 8. Closing Day              │
+     │ - Settlement review         │
+     │ - Attend closing            │
+     │ - Deliver gift              │
+     └───────────┬───────────────┘
+                 │
+                 ▼
+     ┌────────────────────────────┐
+     │ 9. Post-Closing Care        │
+     │ - 30/60/90-day follow-ups   │
+     │ - Add to nurture systems    │
+     │ - Annual Review pipeline     │
+     └────────────────────────────┘

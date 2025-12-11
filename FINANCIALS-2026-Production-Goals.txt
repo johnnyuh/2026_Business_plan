@@ -1,0 +1,16 @@
+AI, here are my production goals for 2026. Use these exactly in all planning, KPI creation, and forecasting:
+
+- Total transactions: 12
+- Listing-side: 8
+- Buyer-side: 4
+- Average sale price: $700,000
+- Listing commission: 3.2%
+- Buyer commission: 2.8%
+- Total target GCI: $257,600
+
+Please integrate these numbers into:
+1. Quarterly pacing
+2. Monthly KPIs
+3. Lead-gen targets
+4. Conversion models
+5. Marketing planning
