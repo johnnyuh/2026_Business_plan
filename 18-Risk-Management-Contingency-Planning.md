@@ -16,9 +16,9 @@
   ## Monitoring & Review
   ## Long-Term Risk Mitigation Strategy 2026–2028
 
+HELLOO.
 
 ## Random Notes
-OH GAWD SO MUCH RISK updated to test Git.
 Stubborn, Sometimes Argumentative - views ‘debate’ as sport when others may not have the same
 belief. 
 Sometimes Unfocused - I jump from 1 mental ‘playground’ to another, sometimes before
