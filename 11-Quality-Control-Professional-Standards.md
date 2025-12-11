@@ -1,9 +1,17 @@
-# Quality Control & Professional Standards
-  ## Brand consistency
+# QUALITY CONTROL & PROFESSIONAL STANDARDS
+
+  ## BRAND CONSISTENCY
+
   Use templates for print, email, and social.
-  ## Ethical standards
+
+  ## ETHICAL STANDARDS
+
   Operate above regulatory standards.
-  ## Client communication expectations
+
+  ## CLIENT COMMUNICATION EXPECTATIONS
+  
   Structured weekly update framework.
-  ## Documentation & compliance
+
+  ## DOCUMENTATION & COMPLIANCE
+  
   On-time compliance and file accuracy.

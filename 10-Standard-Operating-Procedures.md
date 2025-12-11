@@ -1,21 +1,58 @@
-# Standard Operating Procedures (SOPs)
-  ## Lead intake workflows
+# STANDARD OPERATING PROCEDURES (SOPs)
+
+  ## LEAD INTAKE WORKFLOWS
+
   Qualification. Timeline ID. Automation Tag Assignment. 
   Determine their financial considerations, rank/prioritize.
-  ## Listing launch process & timelines
+
+  ## LISTING LAUNCH PROCESS & TIMELINES
+
   Pre-listing prep, photography scheduling, marketing activation.
-  ## Buyer intake and onboarding
+
+  ## BUYER INTAKE & ONBOARDING
+
   Financing confirmation, needs analysis, showing cadence.
-  ## Contract-to-close workflow
+
+  ## CONTRACT TO CLOSE WORKFLOW
+
   Milestones: inspection, appraisal, loan, weekly updates.
-  ## Post-closing follow-up
+
+  ## POST CLOSING FOLLOW-UP
+
   Touchpoints at 1 week, 1 month, 3 months, 6 months, annual review.
-  ## MY DAILY CHECK-OUT SOP
-  All contacts registered with my CRM assistant? 
+
+  ## MY DAILY CHECK-OUT
+
+  Contacts from day logged and sorted.
+
   Nightly Automated Logging of KPIs.
-  Review activities for day. Note Dump. Preview tomorrow. File clean-up. On target for the day's percentages?
-  ## MY WEEKLY CHECK-OUT SOP
+
+  File management & organization.
+
+  Transaction Archiving
+
+  Review activities for day. 
+  
+  Note Dump. 
+  
+  Preview tomorrow. 
+  
+  File clean-up. 
+  
+  On target for the day's percentages?
+  
+  ## MY WEEKLY CHECK-OUT
+ 
   File clean-up and backup procedure. On target for the week's percentages? Weak points?
+ 
   Nightly Automated Logging of KPIs.
-  ## MY QUARTERLY CHECK-OUT SOP
+
+  On target for the day's percentages?
+
+  File management & organization.
+ 
+  ## MY QUARTERLY CHECK-OUT
+ 
   On target for the quarter's percentages?
+
+  File management & organization.
