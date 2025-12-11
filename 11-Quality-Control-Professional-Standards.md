@@ -12,6 +12,8 @@
   
   Structured weekly update framework.
 
+  Consistent and planned times for communications & meetings.
+
   ## DOCUMENTATION & COMPLIANCE
-  
+
   On-time compliance and file accuracy.

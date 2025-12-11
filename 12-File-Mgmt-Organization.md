@@ -86,7 +86,7 @@
     - QTR_
 
     - LASER_
-    
+
 
   #### PROJECT/CLIENT
 
@@ -139,6 +139,8 @@
         1. johnuhles@My-MacBook-Pro
           
           1. Usage of Git fpr version control, change tracking.
+
+            1. https://github.com/johnnyuh/2026_Business_plan 
 
     2. Monthly
 

@@ -23,17 +23,25 @@
   
   “Future-focused, design-forward advising.”
   
-  “Data-driven decisions, human-centered guidance.”
+  “Data-driven decisions" 
+  
+  "Human-centered guidance.”
+
+  "Creative problem-solver."
   
   "Mitigate my client's worries."
+
+  "Relentless pursuit of my client's considerations."
   
-  "My Zone of Genius."
+  "Intentional."
+
+  "Explains complex scenarios with ease."
+
+  "Autonomous action-taker."
   
-  "Be Intentional."
-  
-  "Momentum."
-  
-  "Be a good listener."
+  "A good listener and remembers everything."
+
+  "Values open communication."
 
 
   ## Visual Identity Standards
@@ -47,7 +55,7 @@
  
   Social: listings, design-forward visuals, micro market breakdowns.
   
-  Video: interpretation of neighborhood trends for farm engagement.
+  Video: Interpretation of hyper-local neighborhood trends for targeted farm engagement.
 
 
   ## Marketing Channels
@@ -76,7 +84,7 @@
 
   ## Marketing Calendar (2026)
 
-  Monthly: farm postcard, Substack newsletter, social cadence.
+  Monthly: Post cards to apartment complex's physical boards, Substack newsletter, social cadence.
   
   Quarterly: high-impact farm report, CMA drop-offs, event.
   
