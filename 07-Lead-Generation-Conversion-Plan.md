@@ -8,6 +8,31 @@
   ## Support Tools & Automation
   ## 2026 Goals & Targets
 
+## My Notes
+
+### Lead Generation Source
+- Farm Postcard
+- my apartment physical board post
+- Instagram Source
+- Facebook Source
+- LinkedIn DM Source
+- Open House
+- Referral
+- Landing Page
+- Casual Meeting
+- An Event
+- Farm Door-Knock Source.
+- From Monthly Group Hikes
+- From Gym
+- Buyer from Apartment Complex.
+
+### Funnels
+
+1. Inbound Buyer Funnel
+2. Inbound Seller Funnel
+3. Referral / Sphere Funnel
+4. Cold-to-Warm Nurture Funnel
+
 SORT
 
 Lead Conversion Structure Ideas
@@ -113,6 +138,14 @@ reduces error risk and improves client experience.
   Pre-appointment CB Booklets.
   Clear listing timelines with design-forward visuals
   Professional 
+  Funnels live here.
+  This section answers
+  “Once attention is captured, how is it systematically converted into clients and closings?”
+  ### Buyer Funnels
+  ### Seller Funnels
+  ### Sphere / Referral Funnels
+  ### My Apartment-Building Funnels
+  ### Listing-driven funnels
 
   ---
 

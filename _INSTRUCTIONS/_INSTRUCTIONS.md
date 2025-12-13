@@ -1,8 +1,10 @@
 # INSTRUCTIONS
 
-## Use the outline.
+## Use the outline provided titled ""
 
-## Create visuals for all SOPs.
+## Check all markdown files of the type .md for errors in formatting. If errors are encountered, do not proceed but ask for my clarification.
+
+## If you run into incomplete content, do not create new content, instead prompt me for the missing content.
 
 ## For an Understanding of the Denver Metro Regional Market
 
@@ -10,5 +12,5 @@
 
     2. Parse all 12 .pdf files
 
-    3. Record your learnings in memory for use in the Market Analysis section, and throughout the whole business plan.
+    3. Using the data from the files, develop Pricing Trends & Forecast Indicators for the region. Then, use these trends and indicators throughout as needed.
 

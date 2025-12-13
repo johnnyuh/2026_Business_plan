@@ -1,18 +1,14 @@
 # Core Systems & Platforms
 
-
-  ## Coldwell Banker Tools
-
-
-  ---
-
-
-  ## Additional Tools
-
-
-  ---
-
-
-  ## AI Personal Assistants
-
-  CRM, TA, Scheduler, 
+| Platform Name | Primary Function | Why It's Core to the Business | Integration Notes or Dependencies |
+| --- | --- | --- | --- |
+| **CRM Platform (OpenAI Custom CRM)** | Central system of record for all contacts, lead sources, follow-up tasks, and pipeline stages | Ensures consistent lead conversion, client experience, and long-term relationship leverage across buyers, sellers, and referrals | Integrates with MLS, forms, email, SMS, landing pages, and automation tools |
+| **MLS Platform (REcolorado)** | Access to listings, comparables, market statistics, and historical sales data | Foundational to pricing strategy, market expertise, and advisory credibility | Feeds data to CRM, CMA tools, and marketing content |
+| **Marketing Infrastructure (MyCBdesk > Outlook Email, Custom Landing Pages, QR-Code Workflows)** | Captures, nurtures, and distributes inbound and outbound marketing traffic | Enables scalable lead capture and consistent messaging across digital and physical channels | Connected to CRM, analytics, and website hosting |
+| **Transaction Management System (MyCBdesk > MyDeals, MyCBdesk > Transaction Manager)** | Manages contracts, disclosures, deadlines, and compliance requirements | Required for legal compliance, risk reduction, and transaction consistency | Integrates with e-signature, brokerage systems, and document storage |
+| **E-Signature Platform (CTM eContracts)** | Secure digital execution of contracts and disclosures | Accelerates deal velocity and supports remote and time-sensitive transactions | Embedded within transaction management and CRM workflows |
+| **Financial & Commission Tracking (MyCBdesk > My Income & Expenses)** | Tracks income, expenses, commissions, and profitability | Supports financial visibility, tax preparation, and business planning | Syncs with bank accounts and brokerage commission statements |
+| **Communication & Scheduling (Email, SMS, Calendar, Custom AI TC)** | Client communication, appointment coordination, and internal scheduling | Core to responsiveness, professionalism, and client experience | Integrated with CRM, automation, and calendar systems |
+| **Data, Reporting & Automation Layer (Custom AI Tools, Spreadsheets)** | Aggregates performance data and supports reporting and automation | Enables data-driven decision-making and continuous improvement | Pulls data from CRM, MLS, marketing, and financial systems |
+| **Document & Knowledge Management (Local storage with GitHub version control duplicated 2x times to iCloud Storage & Physical HDD)** | Centralized storage for templates, marketing assets, and business documents | Prevents knowledge loss and supports operational consistency | Used across all systems; linked from CRM and transaction files |
+| **Security & Access Control (Platform-level permissions to local folder storage, Apple Passwords, 2FA Physical Key)** | Protects client data, accounts, and business systems | Critical for client trust, legal compliance, and operational continuity | Password managers, 2FA, and platform-level permissions |
