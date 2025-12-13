@@ -19,6 +19,15 @@
   ---
 
   ## Brand Messaging Framework
+
+  ### Style
+  Sophisticated, Clean, Monochrome, Simple, Clear, Masculine.
+  ### Tone
+  Sophisticated, Emotionally Intelligent, Proactive, Clear
+  ### Audience
+  tech employees, execs, CEOs, regular people.
+  ### Important
+  
   
   Consistent use of your non-negotiable phrases:
   
