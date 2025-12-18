@@ -1,19 +1,28 @@
-# Tactical Daily Schedule (Weekday Operating Day)
+# Appendix C3 — Tactical Daily Schedule (Weekday Operating Day)
+
 **Applies:** Monday–Saturday (with day-specific overrides)
+
+---
+
+## Purpose
+This schedule defines the **default weekday operating cadence** for the business. It protects focus, capacity, and recovery while enabling consistent prospecting, marketing execution, and client service at higher transaction volume.
+
+This is a **governing cadence**, not a suggestion.
 
 ---
 
 ## Daily Anchors
 - **5:00–6:00** Personal start (non-work)
 - **6:00–12:00** Primary Work Sprint
-- **5:00–7:00** Dinner / home block (protected)
+- **6:00–8:00** Dinner / home block (protected)
 
 ---
 
 ## 5:00–6:00 — Personal Start (No Business)
-- Wake, hygiene, coffee
-- Light reset
+- Wake, hygiene
+- Daily spiritual work: affirmations, meditation, manifestation
 - One-line “today’s win condition”
+- Coffee
 
 ---
 
@@ -70,16 +79,16 @@
 
 ### 8:30–10:30 — Prospecting Block 2 (Hybrid: Outbound + Street-Level)
 Includes:
-- Walking farm neighborhoods to:
-  - Door-knock
-  - Hang fliers
-  - Speak with homeowners encountered
-- Sharing neighborhood market insights via QR-linked landing page
+- Walking farm neighborhoods:
+  - Door-knocking
+  - Hanging fliers
+  - Speaking with homeowners
+- Sharing neighborhood insights via QR-linked landing pages
 - Relationship-building with nearby business owners
-- Working consistently from:
-  - Farm-neighborhood coffee shop
-  - Apartment complex work lounge
-  - Neighborhood workspace
+- Working from:
+  - Farm-neighborhood coffee shops
+  - Apartment complex work lounges
+  - Local neighborhood workspaces
 
 ### 10:30–10:45 — Break + Inbox Triage
 - Time-sensitive responses only
@@ -106,7 +115,7 @@ Includes:
 
 ### 2:15–3:30 — Appointments / Showings / Field Work
 - Listing appointments
-- Buyer consults
+- Buyer consultations
 - Showings
 - Overflow prospecting if no appointments
 
@@ -121,15 +130,20 @@ Includes:
 
 ### 4:30–5:00 — Buffer / Transition
 - Wind-down
-- Prep for dinner block
+- Prep for daily workout block
 
 ---
 
-## 5:00–7:00 — Dinner / Home Block (Protected)
+## 5:00–6:00 — Daily Workout (All Days)
+- Physical workout (1 hour)
 
 ---
 
-## 7:00–8:30 — Light Flex Work (Optional)
+## 6:00–8:00 — Dinner / Home Block (Protected)
+
+---
+
+## 8:00–8:30 — Light Flex Work (Optional)
 - Prep next-day prospect lists
 - CRM cleanup
 - Schedule follow-ups
@@ -139,10 +153,28 @@ Includes:
 - Write next day’s first outreach target
 - Devices down
 
+### 9:00–9:45 — Personal Education & Enlightenment Block
+- Reading (1 chapter)
+
 ---
 
-## Sunday (Personal Ops + Prep Day)
+## Sunday — Personal Ops + Prep Day
 - Weekly review and scorecard
+- Weekly athletic commitment (tennis, hiking, biking, golf)
 - Marketing creation and scheduling
 - CRM cleanup and list-building
 - Calendar planning and confirmations
+
+---
+
+## Governance Notes
+- This schedule supersedes ad-hoc tasking.
+- Chronic spillover triggers a **capacity review** (Appendix A5).
+- Deviations are signals, not failures.
+
+---
+
+## Executive Rule (Non-Negotiable)
+
+If adherence to this schedule degrades **client experience, decision quality, or recovery**,  
+volume is reduced before standards are compromised.
