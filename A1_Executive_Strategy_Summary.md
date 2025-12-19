@@ -76,4 +76,27 @@ The business is **not optimized for team scaling** or management leverage. Growt
 Primary risks include:
 - Market volatility
 - Solo-operator capacity strain
-- Reputational risk fr
+- Reputational risk from misaligned expectations
+
+Risk is mitigated through:
+- Growth gates
+- Explicit pause conditions
+- SOP-driven execution
+- Monthly and quarterly review cadences
+
+---
+
+## Strategic Constraints (Non-Negotiable)
+
+- No transaction-maximization mandate
+- No trend or platform chasing
+- No growth without governance approval
+- No erosion of advisory positioning
+
+---
+
+## Executive Takeaway
+
+This strategy is designed to produce **consistent, defensible outcomes** across market cycles by aligning market interpretation, funnel discipline, operational governance, and personal capacity into a single coherent system.
+
+The result is a business that is **intentionally constrained, strategically flexible, and professionally durable**.

@@ -6,8 +6,7 @@ This business plan outlines a **design-forward, data-driven residential real est
 
 The practice serves buyers and sellers across the Denver Metro and Front Range markets who value clarity, realism, and disciplined decision-making in an increasingly complex housing environment. Growth is governed by explicit capacity and quality constraints to preserve sustainability, client outcomes, and professional integrity.
 
-For 2026, the business targets **12 closed transactions**, evenly split between buyers and sellers, with an average sale price of **$600,000**. Buyer-side transactions assume an average commission of **2.8%**, while seller-side transactions assume **3.2%**. These projections are intentionally conservative and aligned with a solo-operator advisory posture.
-
+[CHANGE — 2025-12-18 | REMOVE | Removed a duplicate of the paragraph below | JU]
 For 2026, the business targets **12 closed transactions**, evenly split between buyers and sellers, with an average sale price of **$600,000**. Buyer-side transactions assume an average commission of **2.8%**, while seller-side transactions assume **3.2%**. These projections are intentionally conservative and aligned with a solo-operator advisory posture.
 
 ---
@@ -170,11 +169,14 @@ Time, energy, and cognitive load are treated as strategic constraints and active
 
 ## 15. Appendices
 
+[CHANGE — 2025-12-18 | LANGUAGE | Updated the language in the section's introductory description, below. No logic change. | JU]
+
 The following appendices are incorporated by reference and govern execution, cadence, and operational control. The most recent version of each appendix artifact is authoritative.
 
 Appendices operationalize strategy but do **not** override the strategic intent, constraints, or governance defined in Sections 1–14 of this Business Plan.
 
 ---
+[CHANGE — 2025-12-18 | ADD | Expanded Appendix index with IDs | JU]
 
 ### Appendix A — Strategy, Governance & Growth
 
@@ -228,3 +230,9 @@ Appendices operationalize strategy but do **not** override the strategic intent,
 - **E5** Cross-Section Dependency Map  
 
 ---
+
+## Change Log
+- 2025-12-18 — REMOVE — Duplicate paragraph removed (JU)
+- 2025-12-18 — LANGUAGE — Update the language in the introductory Appendix description; no logic change  (JU)
+- 2025-12-18 — ADD — Expanded Appendix index with IDs (JU)
+
