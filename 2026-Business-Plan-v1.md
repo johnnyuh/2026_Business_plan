@@ -6,7 +6,6 @@ This business plan outlines a **design-forward, data-driven residential real est
 
 The practice serves buyers and sellers across the Denver Metro and Front Range markets who value clarity, realism, and disciplined decision-making in an increasingly complex housing environment. Growth is governed by explicit capacity and quality constraints to preserve sustainability, client outcomes, and professional integrity.
 
-[CHANGE — 2025-12-18 | REMOVE | Removed a duplicate of the paragraph below | JU]
 For 2026, the business targets **12 closed transactions**, evenly split between buyers and sellers, with an average sale price of **$600,000**. Buyer-side transactions assume an average commission of **2.8%**, while seller-side transactions assume **3.2%**. These projections are intentionally conservative and aligned with a solo-operator advisory posture.
 
 ---
@@ -167,72 +166,63 @@ Time, energy, and cognitive load are treated as strategic constraints and active
 
 ---
 
-## 15. Appendices
-
-[CHANGE — 2025-12-18 | LANGUAGE | Updated the language in the section's introductory description, below. No logic change. | JU]
+## 15. Appendices (Referenced)
 
 The following appendices are incorporated by reference and govern execution, cadence, and operational control. The most recent version of each appendix artifact is authoritative.
 
 Appendices operationalize strategy but do **not** override the strategic intent, constraints, or governance defined in Sections 1–14 of this Business Plan.
 
 ---
-[CHANGE — 2025-12-18 | ADD | Expanded Appendix index with IDs | JU]
 
 ### Appendix A — Strategy, Governance & Growth
 
-- **A1** Executive Strategy Summary  
-- **A2** Growth & Scalability Framework (2026–2028)  
-- **A3** Growth Gate Checklist  
-- **A4** Reasons We Pause Growth Reference Table  
-- **A5** Solo-Operator Capacity Model  
-- **A6** Quarterly Growth Review Template  
+* **A1** Executive Strategy Summary
+* **A2** Growth & Scalability Framework (2026–2028)
+* **A3** Growth Gate Checklist
+* **A4** Reasons We Pause Growth Reference Table
+* **A5** Solo-Operator Capacity Model
+* **A6** Quarterly Growth Review Template
 
 ---
 
 ### Appendix B — Funnels, Marketing & Lead Systems
 
-- **B1** Funnel Architecture Map  
-- **B2** Market → Funnel → KPI Alignment Map  
-- **B3** Content Command Center  
-- **B4** Marketing Calendar (Annual)  
-- **B5** Social Content Calendar & Post Library  
-- **B6** YouTube Anchor Video Framework  
+* **B1** Funnel Architecture Map
+* **B2** Market → Funnel → KPI Alignment Map
+* **B3** Content Command Center
+* **B4** Marketing Calendar (Annual)
+* **B5** Social Content Calendar & Post Library
+* **B6** YouTube Anchor Video Framework
 
 ---
 
 ### Appendix C — Operations & SOPs
 
-- **C1** SOP Map  
-- **C2** Standard Operating Procedures  
-- **C3** Tactical Daily Schedule (Weekday Operating Day)  
-- **C4** Weekly Tactical Checklist (Mon–Sun)  
-- **C5** Daily Scorecard  
-- **C6** Weekly Review Template  
-- **C7** Monthly Financial Review SOP  
+* **C1** SOP Map
+* **C2** Standard Operating Procedures
+* **C3** Tactical Daily Schedule (Weekday Operating Day)
+* **C4** Weekly Tactical Checklist (Mon–Sun)
+* **C5** Daily Scorecard
+* **C6** Weekly Review Template
+* **C7** Monthly Financial Review SOP
 
 ---
 
 ### Appendix D — Client Experience & Quality Control
 
-- **D1** Client Experience Lifecycle Map  
-- **D2** Client Touchpoint → SOP Cross-Reference  
-- **D3** Client Experience Failure Modes Table  
-- **D4** Quarterly Experience Review Checklist  
+* **D1** Client Experience Lifecycle Map
+* **D2** Client Touchpoint → SOP Cross-Reference
+* **D3** Client Experience Failure Modes Table
+* **D4** Quarterly Experience Review Checklist
 
 ---
 
 ### Appendix E — Financials, Risk & Controls
 
-- **E1** Financial Assumptions & KPI Reference Table  
-- **E2** Financial KPI → Funnel Attribution Map  
-- **E3** Scenario Range Table  
-- **E4** Risk-to-SOP Cross-Reference Table  
-- **E5** Cross-Section Dependency Map  
+* **E1** Financial Assumptions & KPI Reference Table
+* **E2** Financial KPI → Funnel Attribution Map
+* **E3** Scenario Range Table
+* **E4** Risk-to-SOP Cross-Reference Table
+* **E5** Cross-Section Dependency Map
 
 ---
-
-## Change Log
-- 2025-12-18 — REMOVE — Duplicate paragraph removed (JU)
-- 2025-12-18 — LANGUAGE — Update the language in the introductory Appendix description; no logic change  (JU)
-- 2025-12-18 — ADD — Expanded Appendix index with IDs (JU)
-
